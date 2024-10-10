@@ -1,12 +1,14 @@
 body{
-color:rgb(255, 0, 0);
-background: rgb(0, 0, 0);
+color:#001aff80;
+background: rgb(61, 61, 61);
 border-bottom: solid 0px rgb(255, 0, 0);
 font-family: "Chakra Petch", sans-serif;
 margin: 20px
 }
 /* código omitido */
-
+head{
+    background-color: aqua;
+}
 
 .categoria-videos{
     display: flex;
